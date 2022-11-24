@@ -1,0 +1,320 @@
+./drive/MyDrive/paa/data/aleatorios/a2000000.txt
+first = 0:00:00.177597
+middle = 0:00:00.182848
+median = 0:00:00.216887
+./drive/MyDrive/paa/data/aleatorios/a1500000.txt
+first = 0:00:00.150042
+middle = 0:00:00.139884
+median = 0:00:00.168706
+./drive/MyDrive/paa/data/aleatorios/a1000000.txt
+first = 0:00:00.091923
+middle = 0:00:00.122249
+median = 0:00:00.132308
+./drive/MyDrive/paa/data/aleatorios/a1250000.txt
+first = 0:00:00.155588
+middle = 0:00:00.151827
+median = 0:00:00.149582
+./drive/MyDrive/paa/data/aleatorios/a750000.txt
+first = 0:00:00.081657
+middle = 0:00:00.099491
+median = 0:00:00.126581
+./drive/MyDrive/paa/data/aleatorios/a500000.txt
+first = 0:00:00.037520
+middle = 0:00:00.035129
+median = 0:00:00.047907
+./drive/MyDrive/paa/data/aleatorios/a200000.txt
+first = 0:00:00.014193
+middle = 0:00:00.012863
+median = 0:00:00.018126
+./drive/MyDrive/paa/data/aleatorios/a100000.txt
+first = 0:00:00.006599
+middle = 0:00:00.006397
+median = 0:00:00.008539
+./drive/MyDrive/paa/data/aleatorios/a75000.txt
+first = 0:00:00.005003
+middle = 0:00:00.004858
+median = 0:00:00.006786
+./drive/MyDrive/paa/data/aleatorios/a50000.txt
+first = 0:00:00.003278
+middle = 0:00:00.003124
+median = 0:00:00.004217
+./drive/MyDrive/paa/data/aleatorios/a30000.txt
+first = 0:00:00.001905
+middle = 0:00:00.001832
+median = 0:00:00.002620
+./drive/MyDrive/paa/data/aleatorios/a15000.txt
+first = 0:00:00.000960
+middle = 0:00:00.000919
+median = 0:00:00.001303
+./drive/MyDrive/paa/data/aleatorios/a10000.txt
+first = 0:00:00.000629
+middle = 0:00:00.000599
+median = 0:00:00.000811
+./drive/MyDrive/paa/data/aleatorios/a7500.txt
+first = 0:00:00.000450
+middle = 0:00:00.000491
+median = 0:00:00.000744
+./drive/MyDrive/paa/data/aleatorios/a5000.txt
+first = 0:00:00.000355
+middle = 0:00:00.000309
+median = 0:00:00.000452
+./drive/MyDrive/paa/data/aleatorios/a2000.txt
+first = 0:00:00.000203
+middle = 0:00:00.000127
+median = 0:00:00.000181
+./drive/MyDrive/paa/data/aleatorios/a1000.txt
+first = 0:00:00.000062
+middle = 0:00:00.000058
+median = 0:00:00.000081
+./drive/MyDrive/paa/data/aleatorios/a500.txt
+first = 0:00:00.000030
+middle = 0:00:00.000029
+median = 0:00:00.000043
+./drive/MyDrive/paa/data/aleatorios/a200.txt
+first = 0:00:00.000011
+middle = 0:00:00.000011
+median = 0:00:00.000014
+./drive/MyDrive/paa/data/aleatorios/a100.txt
+first = 0:00:00.000005
+middle = 0:00:00.000005
+median = 0:00:00.000010
+./drive/MyDrive/paa/data/ordenados/o100.txt
+first = 0:00:00.000004
+middle = 0:00:00.000002
+median = 0:00:00.000005
+./drive/MyDrive/paa/data/ordenados/o200.txt
+first = 0:00:00.000011
+middle = 0:00:00.000003
+median = 0:00:00.000009
+./drive/MyDrive/paa/data/ordenados/o500.txt
+first = 0:00:00.000051
+middle = 0:00:00.000011
+median = 0:00:00.000030
+./drive/MyDrive/paa/data/ordenados/o1000.txt
+first = 0:00:00.000124
+middle = 0:00:00.000022
+median = 0:00:00.000053
+./drive/MyDrive/paa/data/ordenados/o2000.txt
+first = 0:00:00.000398
+middle = 0:00:00.000047
+median = 0:00:00.000088
+./drive/MyDrive/paa/data/ordenados/o5000.txt
+first = 0:00:00.002317
+middle = 0:00:00.000100
+median = 0:00:00.000225
+./drive/MyDrive/paa/data/ordenados/o7500.txt
+first = 0:00:00.005125
+middle = 0:00:00.000149
+median = 0:00:00.000346
+./drive/MyDrive/paa/data/ordenados/o10000.txt
+first = 0:00:00.009029
+middle = 0:00:00.000212
+median = 0:00:00.000461
+./drive/MyDrive/paa/data/ordenados/o15000.txt
+first = 0:00:00.020994
+middle = 0:00:00.000315
+median = 0:00:00.000692
+./drive/MyDrive/paa/data/ordenados/o30000.txt
+first = 0:00:00.083413
+middle = 0:00:00.000628
+median = 0:00:00.001418
+./drive/MyDrive/paa/data/ordenados/o50000.txt
+first = 0:00:00.236528
+middle = 0:00:00.001007
+median = 0:00:00.002454
+./drive/MyDrive/paa/data/ordenados/o75000.txt
+first = 0:00:00.525578
+middle = 0:00:00.001577
+median = 0:00:00.003904
+./drive/MyDrive/paa/data/ordenados/o100000.txt
+first = 0:00:00.921576
+middle = 0:00:00.002141
+median = 0:00:00.005191
+./drive/MyDrive/paa/data/ordenados/o200000.txt
+first = 0:00:03.738439
+middle = 0:00:00.004469
+median = 0:00:00.011503
+./drive/MyDrive/paa/data/ordenados/o500000.txt
+first = 0:00:23.578694
+middle = 0:00:00.013354
+median = 0:00:00.030895
+./drive/MyDrive/paa/data/ordenados/o750000.txt
+first = 0:00:53.756938
+middle = 0:00:00.030165
+median = 0:00:00.050855
+./drive/MyDrive/paa/data/ordenados/o1000000.txt
+first = 0:01:35.133626
+middle = 0:00:00.036808
+median = 0:00:00.076445
+./drive/MyDrive/paa/data/ordenados/o1250000.txt
+first = 0:02:26.527321
+middle = 0:00:00.052798
+median = 0:00:00.098172
+./drive/MyDrive/paa/data/ordenados/o1500000.txt
+first = 0:03:32.279671
+middle = 0:00:00.071450
+median = 0:00:00.125111
+./drive/MyDrive/paa/data/ordenados/o2000000.txt
+first = 0:06:18.007574
+middle = 0:00:00.116167
+median = 0:00:00.194133
+./drive/MyDrive/paa/data/decrescentes/d100.txt
+first = 0:00:00.000005
+middle = 0:00:00.000002
+median = 0:00:00.000022
+./drive/MyDrive/paa/data/decrescentes/d200.txt
+first = 0:00:00.000012
+middle = 0:00:00.000004
+median = 0:00:00.000011
+./drive/MyDrive/paa/data/decrescentes/d500.txt
+first = 0:00:00.000078
+middle = 0:00:00.000011
+median = 0:00:00.000031
+./drive/MyDrive/paa/data/decrescentes/d1000.txt
+first = 0:00:00.000267
+middle = 0:00:00.000022
+median = 0:00:00.000061
+./drive/MyDrive/paa/data/decrescentes/d2000.txt
+first = 0:00:00.002753
+middle = 0:00:00.000034
+median = 0:00:00.000093
+./drive/MyDrive/paa/data/decrescentes/d5000.txt
+first = 0:00:00.003040
+middle = 0:00:00.000095
+median = 0:00:00.000232
+./drive/MyDrive/paa/data/decrescentes/d7500.txt
+first = 0:00:00.006808
+middle = 0:00:00.000152
+median = 0:00:00.000353
+./drive/MyDrive/paa/data/decrescentes/d10000.txt
+first = 0:00:00.012866
+middle = 0:00:00.000314
+median = 0:00:00.000466
+./drive/MyDrive/paa/data/decrescentes/d15000.txt
+first = 0:00:00.027256
+middle = 0:00:00.000311
+median = 0:00:00.000708
+./drive/MyDrive/paa/data/decrescentes/d30000.txt
+first = 0:00:00.083599
+middle = 0:00:00.000613
+median = 0:00:00.001438
+./drive/MyDrive/paa/data/decrescentes/d50000.txt
+first = 0:00:00.180723
+middle = 0:00:00.003199
+median = 0:00:00.002572
+./drive/MyDrive/paa/data/decrescentes/d75000.txt
+first = 0:00:00.304960
+middle = 0:00:00.001574
+median = 0:00:00.003868
+./drive/MyDrive/paa/data/decrescentes/d100000.txt
+first = 0:00:00.439330
+middle = 0:00:00.002497
+median = 0:00:00.005230
+./drive/MyDrive/paa/data/decrescentes/d200000.txt
+first = 0:00:00.989766
+middle = 0:00:00.005014
+median = 0:00:00.011097
+./drive/MyDrive/paa/data/decrescentes/d500000.txt
+first = 0:00:02.632352
+middle = 0:00:00.014183
+median = 0:00:00.032923
+./drive/MyDrive/paa/data/decrescentes/d750000.txt
+first = 0:00:04.219680
+middle = 0:00:00.024796
+median = 0:00:00.052648
+./drive/MyDrive/paa/data/decrescentes/d1000000.txt
+first = 0:00:05.630665
+middle = 0:00:00.037116
+median = 0:00:00.071867
+./drive/MyDrive/paa/data/decrescentes/d1250000.txt
+first = 0:00:07.047862
+middle = 0:00:00.061050
+median = 0:00:00.096280
+./drive/MyDrive/paa/data/decrescentes/d1500000.txt
+first = 0:00:08.434141
+middle = 0:00:00.071839
+median = 0:00:00.126346
+./drive/MyDrive/paa/data/decrescentes/d2000000.txt
+first = 0:00:11.632654
+middle = 0:00:00.119821
+median = 0:00:00.190292
+./drive/MyDrive/paa/data/parcialmente_ordenados/po100.txt
+first = 0:00:00.000005
+middle = 0:00:00.000004
+median = 0:00:00.000005
+./drive/MyDrive/paa/data/parcialmente_ordenados/po200.txt
+first = 0:00:00.000008
+middle = 0:00:00.000006
+median = 0:00:00.000014
+./drive/MyDrive/paa/data/parcialmente_ordenados/po500.txt
+first = 0:00:00.000023
+middle = 0:00:00.000016
+median = 0:00:00.000031
+./drive/MyDrive/paa/data/parcialmente_ordenados/po1000.txt
+first = 0:00:00.000067
+middle = 0:00:00.000046
+median = 0:00:00.000082
+./drive/MyDrive/paa/data/parcialmente_ordenados/po2000.txt
+first = 0:00:00.000100
+middle = 0:00:00.000038
+median = 0:00:00.000090
+./drive/MyDrive/paa/data/parcialmente_ordenados/po5000.txt
+first = 0:00:00.001209
+middle = 0:00:00.000095
+median = 0:00:00.000246
+./drive/MyDrive/paa/data/parcialmente_ordenados/po7500.txt
+first = 0:00:00.001834
+middle = 0:00:00.000159
+median = 0:00:00.000355
+./drive/MyDrive/paa/data/parcialmente_ordenados/po10000.txt
+first = 0:00:00.002807
+middle = 0:00:00.000209
+median = 0:00:00.000464
+./drive/MyDrive/paa/data/parcialmente_ordenados/po15000.txt
+first = 0:00:00.005110
+middle = 0:00:00.000326
+median = 0:00:00.000701
+./drive/MyDrive/paa/data/parcialmente_ordenados/po30000.txt
+first = 0:00:00.029140
+middle = 0:00:00.000641
+median = 0:00:00.001420
+./drive/MyDrive/paa/data/parcialmente_ordenados/po50000.txt
+first = 0:00:00.060040
+middle = 0:00:00.001174
+median = 0:00:00.002574
+./drive/MyDrive/paa/data/parcialmente_ordenados/po75000.txt
+first = 0:00:00.215122
+middle = 0:00:00.002641
+median = 0:00:00.003867
+./drive/MyDrive/paa/data/parcialmente_ordenados/po100000.txt
+first = 0:00:00.489373
+middle = 0:00:00.002081
+median = 0:00:00.005215
+./drive/MyDrive/paa/data/parcialmente_ordenados/po200000.txt
+first = 0:00:02.652487
+middle = 0:00:00.004473
+median = 0:00:00.010949
+./drive/MyDrive/paa/data/parcialmente_ordenados/po500000.txt
+first = 0:00:20.610538
+middle = 0:00:00.013213
+median = 0:00:00.030542
+./drive/MyDrive/paa/data/parcialmente_ordenados/po750000.txt
+first = 0:00:49.871794
+middle = 0:00:00.027289
+median = 0:00:00.050798
+./drive/MyDrive/paa/data/parcialmente_ordenados/po1000000.txt
+first = 0:01:28.345471
+middle = 0:00:00.036895
+median = 0:00:00.072152
+./drive/MyDrive/paa/data/parcialmente_ordenados/po1250000.txt
+first = 0:02:20.875606
+middle = 0:00:00.052589
+median = 0:00:00.096542
+./drive/MyDrive/paa/data/parcialmente_ordenados/po1500000.txt
+first = 0:03:23.548432
+middle = 0:00:00.071898
+median = 0:00:00.126753
+./drive/MyDrive/paa/data/parcialmente_ordenados/po2000000.txt
+first = 0:06:07.433747
+middle = 0:00:00.116314
+median = 0:00:00.189835
